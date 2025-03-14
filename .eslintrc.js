@@ -5,5 +5,5 @@ module.exports = {
   rules: {
     'prettier/prettier': 'warn',
   },
-  ignorePatterns: ['/dist/*'],
+  ignorePatterns: ['/dist/*', '/app-example/*'],
 };
